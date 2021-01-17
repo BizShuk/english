@@ -1,0 +1,66 @@
+# TSP
+
+comprehend
+premise
+in as much as
+proposition
+stake
+aborious
+exorbitant
+preposterous
+conjunct
+pajamas
+punchline
+silos
+tautlogy
+ballpart
+noir
+cynicism
+skepticism
+improbable
+newborn -> infant -> toddler -> preschool -> schoolage
+trajectory
+knock out
+succumb
+shortstop
+recession
+laudable
+innocense
+snappy
+thusly = thus
+indict
+endocrinology
+thyroid
+enlist
+reckless
+squander
+celestial
+emporium
+critique
+purport
+taxonomy
+heuristic
+inarticular
+groan
+augment
+despair
+sketch
+monument
+widge
+pigeon
+penguin
+bulb
+brevity
+proclivity, tendency, inclination, predisposition
+conflat conflation
+slate vs slab
+cornerstone
+coalition
+downplay dilute
+etiquette
+formality
+venerable
+impinge impingment
+terrotorial
+lofty
+diligent
