@@ -38,3 +38,16 @@
 - grafts
 - hostility
 - infiltrate
+
+## S6EP
+
+- assign blame.
+- impudence
+- abduct
+- I'm working on it.
+- The design is incredibly crude.
+- It amazes me that a race as backward
+- as yours is attempting interstellar travel.
+- Spare me the supervillain riff.
+- blisters
+- I felt like beating the crap out of him
