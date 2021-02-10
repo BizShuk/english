@@ -1,5 +1,4 @@
 # english
-
 .  
 ├── [LICENSE](LICENSE)  
 ├── [2020.07.30.md](2020.07.30.md)  
@@ -15,10 +14,4 @@
 ├── [SG1](SG1)  
 │   ├── [README.md](SG1/README.md)  
 │   └── [S8.md](SG1/S8.md)  
-├── [t](t)  
-│   ├── [f](t/f)  
-│   └── [t](t/t)  
-│       ├── [f](t/t/f)  
-│       └── [t](t/t/t)  
-│           └── [f](t/t/t/f)  
 └── [README.md](README.md)  
