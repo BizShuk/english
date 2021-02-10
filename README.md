@@ -1,9 +1,5 @@
 # english
 .  
-├── [LICENSE](LICENSE)  
-├── [2020.07.30.md](2020.07.30.md)  
-├── [2020.07.29.md](2020.07.29.md)  
-├── [2020.07.28.md](2020.07.28.md)  
 ├── [book](book)  
 │   └── [TSP.md](book/TSP.md)  
 ├── [Atlantis](Atlantis)  
@@ -14,4 +10,8 @@
 ├── [SG1](SG1)  
 │   ├── [README.md](SG1/README.md)  
 │   └── [S8.md](SG1/S8.md)  
+├── [unknown](unknown)  
+│   ├── [2020.07.28.md](unknown/2020.07.28.md)  
+│   ├── [2020.07.29.md](unknown/2020.07.29.md)  
+│   └── [2020.07.30.md](unknown/2020.07.30.md)  
 └── [README.md](README.md)  
