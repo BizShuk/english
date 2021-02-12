@@ -14,6 +14,6 @@
 │   ├── [2020.07.28.md](unknown/2020.07.28.md)  
 │   ├── [2020.07.29.md](unknown/2020.07.29.md)  
 │   └── [2020.07.30.md](unknown/2020.07.30.md)  
-├── [Youtube](Youtube)  
-│   └── [THE LEAN STARTUP SUMMARY.md](Youtube/THE LEAN STARTUP SUMMARY.md)  
+├── [random](random)  
+│   └── [20200211.md](random/20200211.md)  
 └── [README.md](README.md)  
