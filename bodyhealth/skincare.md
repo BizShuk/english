@@ -1,0 +1,42 @@
+# Skincard
+
+- exfoliate
+- hydrating
+- crusty
+- congest
+- Sebaceous filament
+- prothentic
+- gypsum
+- slush
+- latex
+- vulcanized
+- cameo
+- uneventful
+- jujitsu
+- it's cool
+- dangling
+- kryptonite
+- woo
+- ledger
+- disavow
+- second thought
+- confession
+- Belarus
+- come home in a box
+- back in the day
+- riffraff
+- cesspool
+- good pal
+- overhead image
+- morgue
+- alley
+- nickel
+- in this line of work
+- spunk
+- wrench
+- unsanctioned
+- fiance
+- fiancee
+- patty
+- testosterone
+- get smoked
