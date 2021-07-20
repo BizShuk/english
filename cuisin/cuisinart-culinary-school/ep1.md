@@ -1,0 +1,26 @@
+
+- innit  = isn't it
+- celery
+- thyme
+- bell pepper
+- peppercorn
+- mirepoix
+- carrot
+- hearty
+- soffritto
+- julienne
+- chiffonade
+- brunoise
+- bouquet garni
+- leek
+- impurity
+- sizzle
+- sieve
+- turnip
+- roux
+- paste
+- buckwheat
+- donning
+- doffing
+- rhombus
+- avocate
