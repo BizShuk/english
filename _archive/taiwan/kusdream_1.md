@@ -1,0 +1,33 @@
+# Ku's dream
+
+- toil
+- testify
+- testical
+- hawthones
+- barley
+- lotus
+- nitpick
+- comforting
+- wolfing
+- auntic
+- slurp
+- crawfish
+- sorghum
+- kosher
+- pomegranate
+- turnip cake
+- meat floss
+- liquorice
+- mullet roe
+- cricket
+- candied fruit
+- anise
+- agglutinate
+- horrendous
+- nougat
+- pretentious
+- savoir-faire
+- pastry
+- doughy
+- stoghy
+- supressant

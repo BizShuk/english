@@ -1,0 +1,42 @@
+# Ku's dream 2
+
+- mud
+- rag
+- dent
+- squishy, soft and moist
+- double feeling
+- ambivalence
+- peng pastry
+- sugar apple
+- wax apple
+- baguette
+- churro
+- jacuzzi
+- entrail
+- milkfish
+- date 棗子
+- kimbap
+- marinated
+- bibimbap
+- sweet tooths
+- toss
+- horror
+- mansion
+- float on by
+- wholeheartedly
+- unveiling
+- go out of windown
+- dish out
+- ample
+- candid
+- genius
+- ingenius
+- Iberian
+- incorporate
+- tarven
+- chopitos
+- squid
+- battered
+- congnate
+
+-
