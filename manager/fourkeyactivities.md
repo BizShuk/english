@@ -1,5 +1,0 @@
-- inflection point
-- ramification
-- regimented
-- nudge
-- extrapolated
